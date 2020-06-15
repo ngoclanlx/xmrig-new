@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "us-west.minexmr.com:443",
-            "user": "85FMhoyj6Q7VnEbtWTUguCWRjNMF8Ho6zFnEADhMgjwz8yhYLEoeCMwYp7m7CHR3iTMRrsaYu2vGubLrRRnxirytErhrv7U",
+            "user": "82nEbqkUj5GTXPs3jPB697aeYenNc9ryCVKeUPjeA1hPbbZfMdUh1hSGfwv6MXH2pKYbRrwy5Q8LQjLL139VYEiA8L5PczM",
             "keepalive": true,
             "tls": true
         }
